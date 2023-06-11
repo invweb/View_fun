@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="firstView" type="id" />
+    <item name="secondView" type="id" />
+    <item name="thirdView" type="id" />
+</resources>
